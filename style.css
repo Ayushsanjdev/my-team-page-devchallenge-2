@@ -1,0 +1,100 @@
+/*styling starts*/
+/*first mobile approach*/
+*, html, body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-size: 1rem;
+	background-color: #f4f4f4;
+	scroll-behavior: smooth;
+	overflow-x: hidden;
+}
+
+/*header styling*/
+#container {
+	max-width: 1000px;
+	margin: 0 auto;
+
+}
+#main-head .head {
+	padding-top: 50px;
+	padding-left: 15px;
+	padding-bottom: 30px;
+	font-family: 'PT Serif Caption', serif;
+	font-size: 25px;
+	letter-spacing: -0.04em;
+	line-height: 20px;
+	font-weight: bolder;
+}
+
+/*about div styling*/
+
+#about-div .about-head,.about-para {
+	margin-left: 15px;
+
+}
+.about-head {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-transform: uppercase;
+	font-size: 14px;
+}
+
+.about-para {
+	padding-bottom: 10px;
+	letter-spacing: -0.04em;
+	font-size: 5px;
+	max-width: 250px;
+	max-height: 100px;
+}
+
+.side-para {
+	position: absolute;
+	transform: rotate(90deg);
+	margin: 40px 0px 0px 110px;
+	background: transparent;
+	font-size: 0.8rem;
+	color: #4f4f4f;
+	font-weight: 400;
+}
+
+/*image section*/
+
+#main-img {
+	margin-top: 35px;
+	margin-left: 15px;
+
+
+}
+.bottom-para {
+	text-transform: uppercase;
+	font-weight: 600;
+	font-size: 14px;
+	display: block;
+}
+.side-para {
+
+}
+/*footer*/
+#footer{
+	width: 100%;
+	margin-top: 20px;
+	bottom: 0;
+}
+#footer .footer-para, strong {
+	text-align: center;
+	color: #4f4f4f;
+	font-size: 0.8rem;
+	letter-spacing: 0.05em;
+}
+
+/*media queries for responsiveness*/
+
+@media only screen and (min-width: 500px) {
+	#about-div {
+	float: right;
+	margin-top: -60px;
+}
+
+
+}
