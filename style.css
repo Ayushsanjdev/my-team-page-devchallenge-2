@@ -42,7 +42,6 @@
 }
 
 .about-para {
-	float: left;
 	padding-bottom: 10px;
 	letter-spacing: -0.04em;
 	font-size: 5px;
@@ -53,9 +52,9 @@
 .side-para {
 	position: absolute;
 	transform: rotate(90deg);
-	margin: 40px 0px 0px 110px;
+	margin: 30px 0px 0px 90px;
 	background: transparent;
-	font-size: 0.8rem;
+	font-size: 12px;
 	color: #4f4f4f;
 	font-weight: 400;
 }
@@ -63,28 +62,24 @@
 /*image section*/
 
 #main-img {
-	display: flex;
-	flex-wrap: wrap;
 	border-radius: 20px;
-	max-width: 1200px;
-	max-height: auto;
-	margin: 0 auto;
-	box-shadow: 0px -2px 5px -3px rgba(0,0,0,0.69);
+	max-width: 1000px;
+	border: 1px solid grey;
 }
 
 #main-img #each-img {
 	float: left;
-	padding: 20px;
+	padding: 15px;
 
 }
-
-
+img {
+	width: 110px;
+}
 .bottom-para {
 	text-align: center;
 	text-transform: uppercase;
 	font-weight: 600;
 	font-size: 14px;
-	display: block;
 }
 /*footer*/
 #footer{
@@ -101,27 +96,22 @@
 
 /*media queries for responsiveness*/
 
-@media only screen and (min-width: 500px) {
+@media only screen and (min-width: 550px) {
 	#about-div {
 		float: right;
 		margin-top: -60px;
 }
 	#main-img {
-		margin-top: 40px;
-		max-width: 900px;
-		display: flex;
-		flex-wrap: wrap;
-		justify-content: flex-start;
-
+		max-width: 1000px;
+		padding-left: 5em;
 	}
-	img{
-		margin: 50px;
-		height: auto;
+	img {
+		width: 250px;
 	}
 	.side-para {
-		margin-left: 155px;
+		margin-left: 235px;
 		margin-top: 80px;
-		overflow-x: visible;
+		
 	}
 }
 
