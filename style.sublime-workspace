@@ -1,0 +1,548 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"head",
+				"head\tTag"
+			],
+			[
+				"marign",
+				"margin-right\tproperty"
+			],
+			[
+				"gridtem",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"st",
+				"style2.css"
+			],
+			[
+				"simil",
+				"similarIndex"
+			],
+			[
+				"sim",
+				"similarIndex"
+			],
+			[
+				"order",
+				"orderedArr"
+			],
+			[
+				"p",
+				"pikachu"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"sec",
+				"secArray"
+			],
+			[
+				"inline",
+				"inline\tdisplay"
+			],
+			[
+				"align",
+				"vertical-align\tproperty"
+			],
+			[
+				"seri",
+				"sans-serif\tfont-family"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"co",
+				"cover\tobject-fit"
+			],
+			[
+				"rgb",
+				"rgba()\tbox-shadow"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"fla",
+				"float\tproperty"
+			],
+			[
+				"transition",
+				"transition-duration\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"f",
+				"flex\tdisplay"
+			],
+			[
+				"word",
+				"word-spacing\tproperty"
+			],
+			[
+				"hs",
+				"hsla()\tcolor"
+			],
+			[
+				"r",
+				"wrap\tflex-wrap"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"random",
+				"randomNum"
+			],
+			[
+				"get",
+				"getElementByClass"
+			],
+			[
+				"rg",
+				"rgba()\tcolor"
+			],
+			[
+				"toggle",
+				"toggleOnOff"
+			],
+			[
+				"cre",
+				"createListAfterClick"
+			],
+			[
+				"rando",
+				"randomTotal"
+			],
+			[
+				"food",
+				"foodTotal"
+			],
+			[
+				"gas",
+				"gasTotal"
+			],
+			[
+				"inp",
+				"inputLength"
+			],
+			[
+				"add",
+				"addListAfterKeypress"
+			],
+			[
+				"addlis",
+				"addListAfterKeypress"
+			],
+			[
+				"create",
+				"createListElement"
+			],
+			[
+				"fl",
+				"flex\tdisplay"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"background",
+				"background-attachment\tproperty"
+			],
+			[
+				"fotn",
+				"font-size\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"tran",
+				"translateX()\ttransform"
+			],
+			[
+				"ease",
+				"ease-in-out\ttransition-timing-function"
+			],
+			[
+				"es",
+				"ease-out\ttransition-timing-function"
+			],
+			[
+				"text-",
+				"text-align\tproperty"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"bakgro",
+				"background-repeat\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"mater",
+				"Material Theme: Activate theme"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"auto",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"autosa",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"autosave",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"autosav",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 268.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/aayus/OneDrive/Desktop/my-team-page-devchallenge-2/README.md",
+		"/C/Users/aayus/OneDrive/Desktop/ZTM Open Source/start-here-guidelines/CONTRIBUTORS.md",
+		"/C/Users/aayus/OneDrive/Desktop/fcc challenge3/fcc-challenge-boo-hoo/boowho.js",
+		"/C/Users/aayus/OneDrive/Desktop/New folder/fcc.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/js challanges.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/js challanges2.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/javascript.js",
+		"/C/Users/aayus/OneDrive/Desktop/ayush2/git-github-ztm/index.html",
+		"/C/Users/aayus/OneDrive/Desktop/ayush/git-github-ztm/index.html",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Docs/404notfound/404-not-found-website/index.html",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Docs/404notfound/404-not-found-website/style.css",
+		"/C/Users/aayus/OneDrive/Desktop/404notfound/404-not-found-website/style.css",
+		"/C/Users/aayus/OneDrive/Desktop/404notfound/404-not-found-website/index.html",
+		"/C/Users/aayus/OneDrive/Desktop/404notfound/404-not-found-website/.git/COMMIT_EDITMSG",
+		"/C/Users/aayus/OneDrive/Desktop/404notfound/404-not-found-website/style2.css",
+		"/C/Users/aayus/OneDrive/Desktop/404notfound/404-not-found-website/index2.html",
+		"/C/Users/aayus/AppData/Roaming/Sublime Text 3/Packages/auto-save/README.md",
+		"/C/Users/aayus/AppData/Roaming/Sublime Text 3/Packages/AutoRefresh/AutoRefresh.sublime-settings",
+		"/C/Users/aayus/AppData/Roaming/Sublime Text 3/Packages/User/Auto Refresh.sublime-settings",
+		"/C/Users/aayus/AppData/Roaming/Sublime Text 3/Packages/auto-save/auto_save.sublime-settings",
+		"/C/Users/aayus/OneDrive/Desktop/404-not-found-project/index.html",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Docs/Time Project/index.html",
+		"/C/Users/aayus/git_demo/Background-Generator-using-js/del.js",
+		"/C/Users/aayus/git_demo/Background-Generator-using-js/js.js",
+		"/C/Users/aayus/git_demo/Background-Generator-using-js/ayush.cpp",
+		"/C/Users/aayus/git_demo/Background-Generator-using-js/practice2.html",
+		"/C/Users/aayus/OneDrive/Desktop/Pariwar Website/index.html",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/debugger.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/es2020-solutions.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/es2020.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/ES10-Exercise.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/advanced-looping-exercise.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/advanced Loops.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/advanced-looping-solution.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/ES10-Solutions.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/es10exercise.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/es10.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/exerciseES8.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/exerciseES8-SOLUTIONS.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/exerciseES7-SOLUTIONS.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/es8js.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/exerciseES7.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/exercise6.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/exercise6-SOLUTIONS.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/advanced arrays 1.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/value vs refrence.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/freecodecamp.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/ex5practice.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/js concepts es 6",
+		"/C/Users/aayus/OneDrive/Desktop/index.html",
+		"/C/Users/aayus/OneDrive/Desktop/Time Project/style.css",
+		"/C/Users/aayus/OneDrive/Desktop/Time Project/script.js",
+		"/C/Users/aayus/OneDrive/Desktop/Time Project/index.html",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Docs/Java Script/script.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/exercise5.js",
+		"/C/Users/aayus/OneDrive/Desktop/script practice/exercise5-SOLUTIONS-1.js",
+		"/C/Users/aayus/OneDrive/Desktop/freecodecamp.js",
+		"/C/Users/aayus/OneDrive/Desktop/My Portfolio/style.css",
+		"/C/Users/aayus/OneDrive/Desktop/My Portfolio/240_F_241304513_8tTHkq4hIl70NCWump8PSDnGIqpVZ3NX.jpg",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Docs/practice.code/style.css",
+		"/C/Users/aayus/OneDrive/Desktop/Pariwar Website/categories.html",
+		"/C/Users/aayus/OneDrive/Desktop/Pariwar Website/about.html",
+		"/C/Users/aayus/OneDrive/Desktop/Pariwar Website/contact.html",
+		"/C/Users/aayus/OneDrive/Desktop/Pariwar Website/collections.html",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Docs/practice.code/index.html",
+		"/C/Users/aayus/OneDrive/Desktop/My first blog project/index.html",
+		"/C/Users/aayus/OneDrive/Desktop/My Portfolio/New Text Document.css",
+		"/C/Users/aayus/OneDrive/Desktop/My Portfolio/New Text Document.html",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Docs/Java Script/javascript learning/practice3.js",
+		"/C/Users/aayus/OneDrive/Desktop/exercise4-SOLUTIONS.js",
+		"/C/Users/aayus/OneDrive/Desktop/exercise4.js",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Docs/Java Script/javascript learning/temp.js",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Docs/Java Script/javascript learning/script.js",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Docs/Java Script/javascript learning/practice2.js",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Docs/Java Script/javascript learning/practice.js",
+		"/C/Users/aayus/OneDrive/Desktop/Pariwar Website/home.html",
+		"/C/Users/aayus/OneDrive/Desktop/My first website project/index.html",
+		"/C/Users/aayus/OneDrive/Desktop/My first website project/style.css",
+		"/C/Users/aayus/OneDrive/Desktop/My first website project/about.html",
+		"/C/Users/aayus/OneDrive/Desktop/My first website project/collections.html",
+		"/C/Users/aayus/OneDrive/Desktop/My first website project/categories.html",
+		"/C/Users/aayus/OneDrive/Desktop/My first website project/contact.html",
+		"/C/Users/aayus/OneDrive/Desktop/My first website project/home.html",
+		"/C/Users/aayus/OneDrive/Desktop/My first blog project/script.js",
+		"/C/Users/aayus/OneDrive/Desktop/My first blog project/style.css",
+		"/C/Users/aayus/Downloads/advanced_exercise_4/exercise4-SOLUTIONS.js",
+		"/C/Users/aayus/Downloads/advanced_exercise_4/exercise4.js",
+		"/C/Users/aayus/OneDrive/Desktop/My first blog project/style.html",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Docs/Java Script/index.html",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Docs/practice.code/exercise3-SOLUTIONS.js",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Docs/practice.code/exercise3.js",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Docs/Java Script/ex2.html",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Docs/Java Script/exercise2-SOLUTIONS.js",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Docs/Java Script/exercise2.js",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Docs/Java Script/exercise5-SOLUTIONS.js",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Docs/Java Script/sols.js",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Doc/Java Script/javascript learning/practice.js",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Doc/Java Script/javascript learning/practice.html",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Doc/Java Script/exercise1-SOLUTIONS.js",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Doc/Java Script/javascript learning/temp.js",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Doc/Java Script/exercise5-SOLUTIONS.js",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Doc/Java Script/exercise5.txt",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Doc/Java Script/javascript learning/style.css",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Doc/Java Script/exercise4.txt",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Doc/Java Script/exercise4-SOLUTIONS.txt",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Doc/Java Script/exercise3.txt",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Doc/Java Script/exercise3-SOLUTIONS.txt",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Doc/Java Script/exercise2-SOLUTIONS.txt",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Doc/Java Script/exercise2.txt",
+		"/C/Users/aayus/OneDrive/Desktop/freecodecamp projects/Produce landing page/style.css",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Doc/Landing page/style.css",
+		"/C/Users/aayus/OneDrive/Desktop/freecodecamp projects/New folder/styles.css",
+		"/C/Users/aayus/OneDrive/Desktop/freecodecamp projects/New folder/index.html",
+		"/C/Users/aayus/OneDrive/Desktop/Tribute page",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Doc/website with grid layout/style1.css",
+		"/C/Users/aayus/OneDrive/Desktop/downloded templates/factory/main.97292821.css",
+		"/C/Users/aayus/OneDrive/Desktop/downloded templates/get-shit-done-master/notification.html",
+		"/C/Users/aayus/OneDrive/Desktop/downloded templates/get-shit-done-master/navbar-transparent.html",
+		"/C/Users/aayus/OneDrive/Desktop/downloded templates/get-shit-done-master/template.html",
+		"/C/Users/aayus/OneDrive/Desktop/downloded templates/get-shit-done-master/tutorial.html",
+		"/C/Users/aayus/OneDrive/Desktop/downloded templates/factory/components.html",
+		"/C/Users/aayus/OneDrive/Desktop/downloded templates/get-shit-done-master/index.html",
+		"/C/Users/aayus/OneDrive/Desktop/downloded templates/get-shit-done-master/components.html",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Doc/Landing page/header.jpg",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Doc/Landing page/index.html",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Doc/bootstrap learning/index.html",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Doc/bootstrap learning/style.css",
+		"/C/Users/aayus/OneDrive/Desktop/All Coding Doc/robot animation/style.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 55.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
