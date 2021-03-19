@@ -102,12 +102,15 @@ img {
 	#about-div {
 		float: right;
 		margin-top: -60px;
-}
+	}
 	#main-img {
 		justify-content: center;
-		max-width: 800px;
-		padding: 0 auto;
+		max-width: 1000px;
+		padding: 1em 2em;
 		margin: 0 auto;
+	}
+	#each-img {
+		margin: 20px;
 	}
 	img {
 		width: 200px;
@@ -117,6 +120,5 @@ img {
 		margin-top: 100px;
 		
 	}
-}
 
 /*end of styling*/
