@@ -88,7 +88,7 @@ img {
 #footer{
 	width: 100%;
 	margin-top: 20px;
-	bottom: 0;
+	bottom: 40px;
 }
 #footer .footer-para, strong {
 	text-align: center;
