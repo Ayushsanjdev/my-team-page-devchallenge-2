@@ -71,11 +71,12 @@
 }
 
 #main-img #each-img {
-	padding: 15px;
+	margin: 30px;
 
 }
 img {
 	width: 110px;
+	border-radius: 20%;
 }
 .bottom-para {
 	text-align: center;
@@ -96,9 +97,14 @@ img {
 	letter-spacing: 0.05em;
 }
 
+#about-div .about-head, .about-para{
+	text-align: center;
+	margin: 0 auto;
+}
+
 /*media queries for responsiveness*/
 
-@media only screen and (min-width: 550px) {
+@media only screen and (min-width: 600px) {
 	#about-div {
 		float: right;
 		margin-top: -60px;
