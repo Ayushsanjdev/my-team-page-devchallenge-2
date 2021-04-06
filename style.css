@@ -1,11 +1,36 @@
 /*styling starts here*/
-/*  */
 
 * {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+}
+
+:root {
+	font-size: 14px;
+}
+
+body {
+	max-width: 1440px;
+	max-height: 1489px;
 	background-color: #fafafa;
 }
+
+#main-container {
+	width: 90%;
+	margin: 0 auto;
+}
+
+/*flexbox used to seperate them and responsive also*/
+
+#main-head {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+
+}
+
+
+
 
 
