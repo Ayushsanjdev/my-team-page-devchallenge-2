@@ -7,30 +7,76 @@
 }
 
 :root {
-	font-size: 14px;
+	font-size: 16px;
 }
 
 body {
 	max-width: 1440px;
 	max-height: 1489px;
 	background-color: #fafafa;
-}
-
-#main-container {
-	width: 90%;
 	margin: 0 auto;
 }
 
-/*flexbox used to seperate them and responsive also*/
-
-#main-head {
-	display: flex;
-	flex-direction: row;
-	justify-content: space-between;
-
+#main-container {
+	max-width: 800px;
+	margin: 0 auto;
 }
 
+/* using flex box to make perfection as responsive as well as less code */
 
+#main-head {
+	overflow: hidden;
+	margin: 5rem 0rem;
+	
+}
 
+#main-head  h1 {
+	font-size: 2.3rem;
+	float: left;
+	font-family: PT Serif;
+	letter-spacing: -0.08rem;
+	line-height: 3rem;
+}
 
+#main-head #about-section {
+	float: right;
+	width: 30%;
+	letter-spacing: -0.01em;
+	font-family: poppins;
+	line-height: 1.3rem;
+	text-align: left;
+}
+
+#about-section h4 {
+	text-transform: uppercase;
+	font-size: 0.8rem;
+	font-weight: 900;
+	padding-bottom: 5px;
+}
+
+#about-section > p {
+	font-weight: 400;
+	font-size: 0.8rem;
+	width: 100%;
+	padding-right: 1rem;
+}
+
+#main-img {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#main-img img {
+	width: 150px;
+	border-radius: 10px;
+	margin: 1rem;
+}
+
+#main-img .name-para {}
+
+#footer {
+	bottom: 0;
+	text-align: center;
+	
+}
 
