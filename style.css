@@ -25,6 +25,7 @@ html {
 
 body {
 	max-width: 900px;
+	height: auto;
 	background-color: #fafafa;
 	margin: 0 auto;
 }
@@ -49,8 +50,9 @@ body {
 }
 
 #main-head #about-section {
-	max-width: 300px;
+	max-width: 280px;
 	letter-spacing: -0.01em;
+	padding-left: 30px;
 	font-family: poppins;
 	line-height: 1.3rem;
 	text-align: left;
@@ -71,12 +73,15 @@ body {
 #main-img {
 	display: flex;
 	flex-wrap: wrap;
-	justify-content: space-between;
+	justify-content: space-evenly;
 }
 
+div:nth-child(2), div:nth-child(5) {
+	padding-top: 5rem;
+}
 
 #main-img > div {
-	width: 25%;
+	width: 200px;
 	margin: 2rem;
 }
 
@@ -90,12 +95,18 @@ body {
 	font-weight: bold;
 	font-size: small;
 	text-align: left;
+	padding-top: 1rem;
 }
 
 .rotated-para {
 	font-family: PT Serif;
 	font-size: small;
-	text-align: left;
+	transform: rotate(90deg);
+	width: 100px;
+	height: 16px;
+	text-align: right;
+	margin-left: 165px;
+	margin-bottom: -40px;
 }
 
 #footer {
@@ -106,4 +117,37 @@ body {
 	font-weight: 500;
 	color: #a9a9a9;
 	line-height: 1.1rem;
+}
+
+@media only screen and (max-width: 882px) {
+	div:nth-child(4), div:nth-child(6) {
+		padding-top: 5rem;
+	}
+	div:nth-child(5) {
+		padding-top: 0;
+	}
+
+}
+
+@media only screen and (max-width: 600px) {
+	#main-head {
+		flex-wrap: wrap;
+		justify-content: flex-start;
+		margin-left: 5rem;
+	}
+	#main-head #about-section {
+		padding-left: 0;
+		padding-top: 2.5rem;
+		line-height: 1.5rem;
+		width: auto;
+	}
+	#main-img > div {
+		width: 28%;
+	}
+	.rotated-para {
+		margin-left: 73%;
+
+		/* need work here */
+	}
+
 }
