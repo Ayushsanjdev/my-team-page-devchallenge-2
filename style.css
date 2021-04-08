@@ -1,9 +1,22 @@
 /*styling starts here*/
 
+html {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+	-webkit-box-sizing: inherit;
+	-moz-box-sizing: inherit;
+	box-sizing: inherit;
+}
+
 * {
 	margin: 0;
 	padding: 0;
-	box-sizing: border-box;
 }
 
 :root {
@@ -11,36 +24,32 @@
 }
 
 body {
-	max-width: 1440px;
-	max-height: 1489px;
+	max-width: 900px;
 	background-color: #fafafa;
 	margin: 0 auto;
 }
 
 #main-container {
-	max-width: 800px;
+	max-width: 90%;
 	margin: 0 auto;
 }
 
-/* using flex box to make perfection as responsive as well as less code */
-
 #main-head {
 	overflow: hidden;
-	margin: 5rem 0rem;
-	
+	margin: 6rem auto;
+	display: flex;
+	justify-content: space-between;
 }
 
-#main-head  h1 {
-	font-size: 2.3rem;
-	float: left;
-	font-family: PT Serif;
+#main-head h1 {
+	font-size: 2rem;
+	font-family: 'PT Serif', Serif;
 	letter-spacing: -0.08rem;
-	line-height: 3rem;
+	line-height: 2rem;
 }
 
 #main-head #about-section {
-	float: right;
-	width: 30%;
+	max-width: 300px;
 	letter-spacing: -0.01em;
 	font-family: poppins;
 	line-height: 1.3rem;
@@ -54,29 +63,47 @@ body {
 	padding-bottom: 5px;
 }
 
-#about-section > p {
+#about-section>p {
 	font-weight: 400;
-	font-size: 0.8rem;
-	width: 100%;
-	padding-right: 1rem;
+
 }
 
 #main-img {
 	display: flex;
 	flex-wrap: wrap;
+	justify-content: space-between;
 }
 
-#main-img img {
-	width: 150px;
-	border-radius: 10px;
-	margin: 1rem;
+
+#main-img > div {
+	width: 25%;
+	margin: 2rem;
 }
 
-#main-img .name-para {}
+#main-img > div > img {
+	width: 100%;
+	border-radius: 5px;
+}
+
+.name-para {
+	font-family: poppins;
+	font-weight: bold;
+	font-size: small;
+	text-align: left;
+}
+
+.rotated-para {
+	font-family: PT Serif;
+	font-size: small;
+	text-align: left;
+}
 
 #footer {
-	bottom: 0;
+	margin: 4rem 0rem 2rem 0rem;
 	text-align: center;
-	
+	font-family: Montserrat;
+	font-size: 0.8rem;
+	font-weight: 500;
+	color: #a9a9a9;
+	line-height: 1.1rem;
 }
-
