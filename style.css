@@ -120,10 +120,11 @@ body {
 	}
 	#main-head h1 {
 		padding-bottom: 3rem;
-		font-size: 2.5rem;
+		font-size: 2.2rem;
 	}
 	#main-head #about-section {
-		max-width: 80%;
+		max-width: 100%;
+		font-size: small;
 	}
 	#main-img {
 		grid-template-columns: repeat(2, 1fr);
@@ -134,5 +135,4 @@ body {
 	#main-img div:nth-child(5) {
 		transform: none;
 	}
-
 }
